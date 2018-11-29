@@ -1,6 +1,6 @@
 # Portfolio Landing Page
-#### This is my first Independent Project (IP). It is the landing page to my Software Development Portfolio.28/11/2018
-#### Authors **Chrispus Ngure**
+#### This is my first Independent Project (IP). It is the landing page to my Software Development Portfolio. 28/11/2018
+#### Authors: **Chrispus Ngure**
 ## Description
 The webpage displays my information. It has a list of projects created and hosted on Github. Also included is a link to my "About me" page detailing my background and journey towards software development.
 ## Technologies Used
